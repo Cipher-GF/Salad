@@ -1,6 +1,6 @@
 # Salad
 
-![Salad!](http://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/17/3/FNM080109Insert030_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1382538880982.jpeg)
+![Salad!](https://www.thespruceeats.com/thmb/r83ZPDHz-iy2VjRJMAf6ya3S-7A=/2500x1406/smart/filters:no_upscale()/perfectgreensalad2500-5993ab28c412440011db26df.jpg)
 
 This was made so people could fork a salad, because that has never been able to have been done before now.
 
